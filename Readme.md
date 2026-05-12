@@ -1,4 +1,5 @@
 # 🧾 Shift Pay Calculator
+playground https://calculator-pay.netlify.app/
 
 A mobile-friendly web application for calculating and tracking shift-based earnings using real payroll data.
 
